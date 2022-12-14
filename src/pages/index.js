@@ -129,6 +129,7 @@ const IndexPage = () => {
       <h1 style={headingStyles}>
         <span style={headingAccentStyles}>Jonathan Williams</span>
       </h1>
+      <img src="" alt="Me" width="400" height="400"></img>
       <h2 id = "About">About </h2>
       I am one course away from completing a Bachelor of Engineering (Software) (Honours) & Science (Statistics) at UNSW Sydney. I am currently working with Sydney-based medtech company ikkiWorks to develop... I am also participating in the UNSW Science Vacation Research Scholarship where I am conducting research related to extreme value forecasting via data augmentation techniques that utilise generative adversarial neural networks (GANs). I am interested in ... 
       <h2 id = "Education">Education:</h2>
@@ -137,7 +138,7 @@ const IndexPage = () => {
       <h2  id = "Skills"> Skills </h2>
       <h4>Programming Languages:</h4>
       <h5>Expert</h5>
-      <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/c%2B%2B_icon.webp" alt="C++"></img>
+      <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/c%2B%2B_icon.PNG" alt="C++"></img>
       <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/python_icon.png" alt="Python"></img>
       <h5>Proficient</h5>
       <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/matlab_icon.png" alt="Matlab"></img>
@@ -145,12 +146,12 @@ const IndexPage = () => {
       <h4>Libraries/Framework:</h4>
       <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/pandas_icon.PNG" alt="Pandas"></img>
       <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/numpy_icon.png" alt="NumPy"></img>
-      <img src="" alt="MatplotLib"></img>
+      <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/matplotlib_logo.PNG" alt="MatplotLib"></img>
       <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/processing_icon.png" alt="Processing"></img>
       <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/unity_icon.png" alt="Unity"></img>
       <h4>Software:</h4>
-      <img src="" alt="Jupyter"></img>
-      <img src="" alt="VS"></img>
+      <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/jupyter_logo.PNG" alt="Jupyter"></img>
+      <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/vsc_icon.png" alt="VS"></img>
       <h4>Knowledge:</h4>
       <h2 id = "Projects"> Projects </h2>
       <h3>Current Projects</h3>
