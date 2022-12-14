@@ -135,9 +135,18 @@ const IndexPage = () => {
       <p>UNSW Bachelor of Engineering (Software) (Honours) &#x26; Science (Statistics) ---- (expected May 2023)</p>
       <p>UNSW Science Vacation Research Scholarship ---- (December 2022 - Febuary 2023)</p>
       <h2  id = "Skills"> Skills </h2>
-      <h4>Programming Language:</h4>
+      <h4>Programming Languages:</h4>
+      <h5>Expert</h5>
+      <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/c%2B%2B_icon.png" alt="C++"></img>
+      <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/python_icon.png" alt="Python"></img>
+      <h5>Proficient</h5>
       <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/matlab_icon.png" alt="Matlab"></img>
+      <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/r_icon.png" alt="R"></img>
       <h4>Libraries/Framework:</h4>
+      <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/pandas_icon.PNG" alt="Pandas"></img>
+      <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/numpy_icon.png" alt="NumPy"></img>
+      <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/processing_icon.png" alt="Processing"></img>
+      <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/unity_icon.png" alt="Unity"></img>
       <h4>Software:</h4>
       <h4>Knowledge:</h4>
       <h2 id = "Projects"> Projects </h2>
