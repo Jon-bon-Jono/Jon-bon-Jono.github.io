@@ -129,7 +129,7 @@ const IndexPage = () => {
       <h1 style={headingStyles}>
         <span style={headingAccentStyles}>Jonathan Williams</span>
       </h1>
-      <img src="" alt="Me" width="400" height="400"></img>
+      <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/me.PNG" alt="Me" width="288" height="300"></img>
       <h2 id = "About">About </h2>
       I am one course away from completing a Bachelor of Engineering (Software) (Honours) & Science (Statistics) at UNSW Sydney. I am currently working with Sydney-based medtech company ikkiWorks to develop... I am also participating in the UNSW Science Vacation Research Scholarship where I am conducting research related to extreme value forecasting via data augmentation techniques that utilise generative adversarial neural networks (GANs). I am interested in ... 
       <h2 id = "Education">Education:</h2>
