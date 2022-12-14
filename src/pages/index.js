@@ -137,7 +137,7 @@ const IndexPage = () => {
       <h2  id = "Skills"> Skills </h2>
       <h4>Programming Languages:</h4>
       <h5>Expert</h5>
-      <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/c%2B%2B_icon.png" alt="C++"></img>
+      <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/c%2B%2B_icon.webp" alt="C++"></img>
       <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/python_icon.png" alt="Python"></img>
       <h5>Proficient</h5>
       <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/matlab_icon.png" alt="Matlab"></img>
