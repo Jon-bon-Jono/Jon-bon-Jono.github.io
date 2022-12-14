@@ -136,7 +136,7 @@ const IndexPage = () => {
       <p>UNSW Science Vacation Research Scholarship ---- (December 2022 - Febuary 2023)</p>
       <h2  id = "Skills"> Skills </h2>
       <h4>Programming Language:</h4>
-      <img src="https://github.com/Jon-bon-Jono/Jon-bon-Jono.github.io/blob/main/src/images/c%2B%2B_icon.png" alt="c++"></img>
+      <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/matlab_icon.png" alt="Matlab"></img>
       <h4>Libraries/Framework:</h4>
       <h4>Software:</h4>
       <h4>Knowledge:</h4>
