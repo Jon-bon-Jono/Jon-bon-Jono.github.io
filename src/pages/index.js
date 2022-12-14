@@ -127,14 +127,24 @@ const IndexPage = () => {
   return (
     <main style={pageStyles}>
       <h1 style={headingStyles}>
-        Congratulations
-        <br />
-        <span style={headingAccentStyles}>— you just made a Gatsby site! 🎉🎉🎉</span>
+        <span style={headingAccentStyles}>Jonathan Williams</span>
       </h1>
-      <p style={paragraphStyles}>
-        Edit <code style={codeStyles}>src/pages/index.js</code> to see this page
-        update in real-time. 😎
-      </p>
+      <h2 id = "About">About </h2>
+      I am one course away from completing a Bachelor of Engineering (Software) (Honours) & Science (Statistics) at UNSW Sydney. I am currently working with Sydney-based medtech company ikkiWorks to develop... I am also participating in the UNSW Science Vacation Research Scholarship where I am conducting research related to extreme value forecasting via data augmentation techniques that utilise generative adversarial neural networks (GANs). I am interested in ... 
+      <h2 id = "Education">Education:</h2>
+      <p>UNSW Bachelor of Engineering (Software) (Honours) &#x26; Science (Statistics) ---- (expected May 2023)</p>
+      <p>UNSW Science Vacation Research Scholarship ---- (December 2022 - Febuary 2023)</p>
+      <h2  id = "Skills"> Skills </h2>
+      <h4>Programming Language:</h4>
+      <h4>Libraries/Framework:</h4>
+      <h4>Software:</h4>
+      <h4>Knowledge:</h4>
+      <h2 id = "Projects"> Projects </h2>
+      <h3>Current Projects</h3>
+      <h3>Past Projects</h3>
+      <h2 id = "Contact"> Contact </h2>
+      Email: jonathan.williams@student.unsw.edu.au
+      
       <ul style={listStyles}>
         <li style={docLinkStyle}>
           <a
