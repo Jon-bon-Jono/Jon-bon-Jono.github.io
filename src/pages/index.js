@@ -155,7 +155,27 @@ const IndexPage = () => {
       <h4>Knowledge:</h4>
       <h2 id = "Projects"> Projects </h2>
       <h3>Current Projects</h3>
+      <ul>
+        <li>
+          <p><a href="https://lu0x1a0.github.io/EURUSDPriceAnalysis">Ikkiworks Internship: </a></p>
+          <p>Goals:</p>
+          <ul>
+            <li><a href="https://lu0x1a0.github.io/EURUSDPriceAnalysis">Improving the accuracy of dead-reckoned estimates of position from a single IMU, managed to achieve less than 10cm error over 3-5s, albeit, with the reliance on some assumptions about the nature of the motion</a></li>
+          </ul>
+        </li>
+      </ul>
       <h3>Past Projects</h3>
+      <ul>
+        <li>
+          <p><a href="https://lu0x1a0.github.io/EURUSDPriceAnalysis">Software Engineering Thesis: Optimizing Inertial Based Sensor Fusion for Accurate Orientation Tracking</a></p>
+          <p>Goals:</p>
+          <ul>
+            <li><a href="https://github.com/Jon-bon-Jono/IMU-Sensor-Calibration">Inovating a unique inertial sensor calibration technique which uses ellipsoid fitting and ellipsoidal affine transformations</a></li>
+            <li><a href="https://github.com/Jon-bon-Jono/IMU-Sensor-Calibration">Performing highly accurate calibration of a magnetometer with hard iron ferromagnetic interference caused by a battery</a></li>
+            <li><a href="https://lu0x1a0.github.io/EURUSDPriceAnalysis">Optimizing and tuning the hardware and Madgwick sensor fusion parameters on an Arduino Nano 33 BLE</a></li>
+          </ul>
+        </li>
+      </ul>
       <h2 id = "Contact"> Contact </h2>
       Email: jonathan.williams@student.unsw.edu.au
       
