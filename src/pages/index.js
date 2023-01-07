@@ -10,7 +10,7 @@ import "../styles/style.css"
 
 export default function Home() {
   return (
-    <main id="Home" className="headings">
+    <main id="Home" className="main">
       <img className="mepic" src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/me.PNG" alt="Me" width="288" height="300"></img>
       <h1 className="name"><span>Jonathan Williams</span></h1>
       <Navbar />

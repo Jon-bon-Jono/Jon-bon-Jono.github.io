@@ -36,12 +36,12 @@ export default function Projects() {
       </details>
       <br></br>
       <details className="collapsible">
-        <summary>Climate Model ()</summary>
+        <summary>Climate Model (July 2022 - August 2022)</summary>
         <p>TODO</p>
       </details>
       <br></br>
       <details className="collapsible">
-        <summary>Inertial-based Gesture Classifier for Handwashing Techniques (- December 2020)</summary>
+        <summary>Inertial-based Gesture Classifier for Handwashing Techniques (November 2020 - December 2020)</summary>
         <p>TODO</p>
       </details>
     </section>
