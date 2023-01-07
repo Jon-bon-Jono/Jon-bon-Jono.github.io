@@ -2,7 +2,7 @@ import React from "react";
 export default function About() {
   return (
     <section id="About">
-      <h3> About Me</h3>
+      <h3 className="headings"> About Me</h3>
       <p> I am one course away from completing a Bachelor of Engineering (Software) (Honours) & Science (Statistics) at UNSW Sydney. </p>
       <p>I am currently working with Sydney-based medtech company IkkiWorks to develop the ikkiMoov system: a wearable motion tracker designed to monitor and coach users throughout home rehabilitation programs. I am also participating in the UNSW Science Vacation Research Scholarship where I am conducting research related to extreme value forecasting via data augmentation techniques that utilise generative adversarial neural networks (GANs).</p>
       <p> I am interested in ...</p>

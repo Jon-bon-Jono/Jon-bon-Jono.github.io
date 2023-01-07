@@ -1,4 +1,4 @@
-.name {
+.headings {
     color:#1242e0;
 }
 
@@ -84,7 +84,7 @@ height: 1000px;
 
 .main {
     font-family: -apple-system, Roboto, sans-serif, serif;
-    color: #3355c7;
+    color: #000000;
     margin-left: 160px;
     padding: 0px 10px;
 }

@@ -4,7 +4,7 @@ import React from "react";
 export default function Projects() {
   return (
     <section id="Projects" className="text-gray-400 bg-gray-900 body-font">
-      <h3>Current Projects</h3>
+      <h3 className="headings">Current Projects</h3>
         <details className="collapsible">
           <summary>Wearable Inertial-based Motion Tracking Application for Capturing Exercise Repetitions (January 2022 -)</summary>
           <span>
@@ -17,8 +17,9 @@ export default function Projects() {
         <br></br>
         <details className="collapsible">
           <summary>Resampling techniques to address imbalanced time series data for regression problems (November 2022 -)</summary>
+          <p>TODO</p>
         </details>
-      <h3>Past Projects</h3>
+      <h3 className="headings">Past Projects</h3>
       <details className="collapsible">
           <summary>Optimizing Inertial-based Sensor Fusion for Accurate Orientation Tracking (January 2021 - December 2021)</summary>
           <p>This was essentially my Software Engineering thesis. I completed this project in collaboration with IkkiWorks. They presented me with a problem where the orientation information generated from an IMU was inaccurate and slow to respond.</p>
@@ -36,10 +37,12 @@ export default function Projects() {
       <br></br>
       <details className="collapsible">
         <summary>Climate Model ()</summary>
+        <p>TODO</p>
       </details>
       <br></br>
       <details className="collapsible">
         <summary>Inertial-based Gesture Classifier for Handwashing Techniques (- December 2020)</summary>
+        <p>TODO</p>
       </details>
     </section>
   );
