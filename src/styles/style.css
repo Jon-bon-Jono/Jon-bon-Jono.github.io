@@ -1,0 +1,140 @@
+.name {
+    color:#1242e0;
+}
+
+.mepic {
+    float: right;
+    padding: 6px 6px 6px 6px;
+}
+ 
+body {
+    margin: 0;
+    font-family: "Lato", sans-serif;
+} 
+
+.sidebar {
+    height: 100%;
+    width: 140px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(0, 255, 34);
+    overflow-x: hidden;
+    overflow: auto;
+    padding-top: 20px;
+}
+
+.sidebar .sections{
+    padding: 6px 8px 6px 16px;
+    font-size: 25px;
+    display: block;
+    color: black;
+    padding: 16px;
+    text-decoration: none;
+}
+
+
+.sidebar a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+  }
+
+
+.sidebar a.active {
+background-color: #3355c7;
+color: white;
+}
+
+.sidebar a:hover:not(.active) {
+background-color: rgb(0, 181, 253);
+color: white;
+}
+
+.sidebar .bottom{
+    position : absolute;
+    bottom : 16px;
+    padding: 16px;
+}
+a.social {
+    padding: 8px;
+} 
+
+.credit {
+    font-size:10px;
+}
+
+
+
+.sidebar .reachout{
+    position : relative;
+    bottom : 16px;
+}
+
+
+div.content {
+margin-left: 200px;
+margin-right:200px;
+padding: 1px 16px;
+height: 1000px;
+}
+
+.main {
+    font-family: -apple-system, Roboto, sans-serif, serif;
+    color: #3355c7;
+    margin-left: 160px;
+    padding: 0px 10px;
+}
+
+.collapsible {
+    background-color: #eee;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+}
+
+.active, .collapsible:hover {
+    background-color: #ccc;
+  }
+
+.content {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+}
+
+@media screen and (max-width: 700px) {
+.sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+.sidebar.sections{
+    float: left;
+}
+.sidebar .bottom{
+    position:relative;
+    display: block;
+}
+div.content {
+    margin-left: 0px;
+    margin-right:0px;
+    
+}
+}
+
+@media screen and (max-width: 400px) {
+.sidebar.sections{
+    text-align: center;
+    float: none;
+}
+
+
+}
