@@ -15,7 +15,7 @@ export default function SideNavBar(){
                 
             <a className = "social" href = 'https://www.linkedin.com/in/jonathan-williams-522181254'>
               <StaticImage 
-                src="../images/linkedin_icon.png" 
+                src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/linkedin_icon.png" 
                 alt="linkedin icon" 
                 width={32}
                 height={32}
@@ -24,7 +24,7 @@ export default function SideNavBar(){
             
             <a className = "social" href = 'https://github.com/Jon-bon-Jono'>
               <StaticImage 
-                src="../images/github_icon.png" 
+                src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/github_icon.png" 
                 alt="github icon" 
                 width={32}
                 height={32}
