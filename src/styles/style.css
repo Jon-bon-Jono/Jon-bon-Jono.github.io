@@ -115,6 +115,12 @@ div.content {
         background-color: rgb(255, 0, 0);
     }
 }
+
+@media screen and (max-width: 400px) {
+    .sidebar {
+        background-color: rgb(0, 255, 64);
+    }
+}
 /* 
 @media screen and (max-width: 700px) {
 .sidebar {
@@ -137,8 +143,8 @@ div.content {
     
 } 
 } 
-
-
+*/
+/* 
 @media screen and (max-width: 400px) {
     .sidebar {
         background-color: rgb(0, 255, 64);
@@ -147,5 +153,5 @@ div.content {
         text-align: center;
         float: none;
     }
-}  */
-
+} 
+ */
