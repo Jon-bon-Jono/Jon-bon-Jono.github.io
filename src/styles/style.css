@@ -109,12 +109,19 @@ div.content {
     overflow: hidden;
     background-color: #f1f1f1;
 }
+
+@media screen and (max-width: 700px) {
+    .sidebar {
+        background-color: rgb(255, 0, 0);
+    }
+}
 /* 
 @media screen and (max-width: 700px) {
 .sidebar {
     width: 100%;
     height: auto;
     position: relative;
+    background-color: rgb(255, 0, 0);
 }
 .sidebar.sections{
     float: left;
@@ -123,18 +130,22 @@ div.content {
     position:relative;
     display: block;
 }
+
 div.content {
     margin-left: 0px;
     margin-right:0px;
     
-}
-} */
+} 
+} 
 
-/*  
+
 @media screen and (max-width: 400px) {
-.sidebar.sections{
-    text-align: center;
-    float: none;
-}
-} */
+    .sidebar {
+        background-color: rgb(0, 255, 64);
+    }
+    .sidebar.sections{
+        text-align: center;
+        float: none;
+    }
+}  */
 
