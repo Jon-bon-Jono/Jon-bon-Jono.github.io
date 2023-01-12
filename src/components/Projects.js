@@ -17,7 +17,7 @@ export default function Projects() {
         <br></br>
         <details className="collapsible">
           <summary>Resampling techniques to address imbalanced time series data for regression problems (November 2022 -)</summary>
-          <p>TODO</p>
+          <p>ToDo</p>
         </details>
       <h3 className="headings">Past Projects</h3>
       <details className="collapsible">
@@ -33,16 +33,23 @@ export default function Projects() {
             <br></br><a href="https://github.com/Jon-bon-Jono/IMU-Sensor-Calibration#readme">Link to results</a></li>
             <li><a>Optimizing and tuning the hardware and Madgwick sensor fusion parameters on an Arduino Nano 33 BLE to compensate for ~0.5s delay</a><br></br><a href="https://drive.google.com/file/d/1O3DPQPNuFrq1QDuoNBO9zluNS5Z1ES5F/edit?disco=AAAAlfC5xUc"> Linkt to thesis chapter</a></li>
           </ul>
+          <p>By the end of the project I had managed to significantly reduce delay and eliminated noticeable drift from an IMU quaternion rotation signal </p>
+          <iframe width="1063" height="480" src="https://www.youtube.com/embed/meowvbAdjhs" title="Thesis Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       </details>
       <br></br>
       <details className="collapsible">
         <summary>Climate Model (July 2022 - August 2022)</summary>
-        <p>TODO</p>
+        <p>Group project completed for the course MATH3041: Mathematical Modelling for Real World Systems.</p>
+        <p>Built an interactive climate model using differential equations in Jupyter/Python.</p>
+        <p>The model simulates the Earth's surface and deep ocean temperature anomalies (from the year 1850) with a mean absolute error of 0.154°C</p>
+        <ul>
+          <li><a href="https://colab.research.google.com/drive/1-nZWwWlL7LP2gufw53lPwOfqHAHtMM0D?usp=sharing">Try it yourself!</a></li>
+        </ul>
       </details>
       <br></br>
       <details className="collapsible">
         <summary>Inertial-based Gesture Classifier for Handwashing Techniques (November 2020 - December 2020)</summary>
-        <p>TODO</p>
+        <p>ToDo</p>
       </details>
     </section>
   );
