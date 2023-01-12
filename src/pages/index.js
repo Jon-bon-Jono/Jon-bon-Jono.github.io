@@ -15,8 +15,8 @@ export default function Home() {
       <h1 className="name"><span>Jonathan Williams</span></h1>
       <Navbar />
       <About />
-      <Projects />
       <Skills />
+      <Projects />
       <Testimonials />
       <Contact />
       <Footer/>
