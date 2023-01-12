@@ -14,7 +14,7 @@ export default function SideNavBar(){
           <div className = 'reachout'>
                 
             <a className = "social" href = 'https://www.linkedin.com/in/jonathan-williams-522181254'>
-              <StaticImage 
+              <img 
                 src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/linkedin_icon.png" 
                 alt="linkedin icon" 
                 width={32}
@@ -23,7 +23,7 @@ export default function SideNavBar(){
             </a>
             
             <a className = "social" href = 'https://github.com/Jon-bon-Jono'>
-              <StaticImage 
+              <img 
                 src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/github_icon.png" 
                 alt="github icon" 
                 width={32}
