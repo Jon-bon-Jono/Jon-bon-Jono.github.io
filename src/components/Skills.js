@@ -13,6 +13,7 @@ export default function Skills() {
       <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/matlab_icon.png" alt="Matlab"></img>
       <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/r_icon.png" alt="R"></img>
       <img width="100" height="100" src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/c_icon.png" alt="C"></img>
+      <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/sql.PNG" alt="SQL"></img>
       <h4>Libraries/Framework:</h4>
       <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/pandas_icon.PNG" alt="Pandas"></img>
       <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/numpy_icon.png" alt="NumPy"></img>
@@ -25,16 +26,19 @@ export default function Skills() {
       <h4>Software:</h4>
       <img width="120" height="100" src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/jupyter_logo.PNG" alt="Jupyter"></img>
       <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/vsc_icon.png" alt="VS"></img>
+      <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/arduino.PNG" alt="Arduino"></img>
 
-      <h4>Knowledge:</h4>
+      <h4>Knowledge/Applied Skills:</h4>
       <ul>
         <li>Data structures and algorithms</li>
+        <li>Embedded C/C++</li>
         <li>Quaternion based spatial rotations</li>
         <li>Dead-reckoning and inertial motion sensing</li>
         <li>Modelling with differential equations</li>
         <li>Regression analysis</li>
         <li>Machine learning</li>
         <li>Neural networks</li>
+        <li>Re-sampling methods for imbalanced data</li>
       </ul>
     </section>
   );

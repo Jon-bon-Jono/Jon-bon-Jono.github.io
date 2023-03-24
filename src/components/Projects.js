@@ -51,6 +51,22 @@ export default function Projects() {
         <summary>Inertial-based Gesture Classifier for Handwashing Techniques (November 2020 - December 2020)</summary>
         <p>ToDo</p>
       </details>
+      <br></br>
+      <details className="collapsible">
+        <summary>REST API for Global Economic Indicators (March 2020 - April 2020)</summary>
+        <p>
+        <ul>
+            <li><a>Built a Flask-Restplus data service in Python accessible through a REST API</a> 
+            <br></br>
+            <a href="https://github.com/Jon-bon-Jono/World-Bank-Economic-Indicators-REST-API">Link to Github repo</a>
+            </li>
+            <li><a>Allows clients to read and store global economic indicator data from </a> <a href="http://api.worldbank.org/v2/">Worldbank</a> </li>
+            
+            <li><a>Stores data from a remote server to a local database using SQLite</a> </li>
+            <li><a>Automatically generates swagger documentation for testing endpoints</a> </li>
+        </ul>
+        </p>
+      </details>
     </section>
   );
 }
