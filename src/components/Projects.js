@@ -47,11 +47,7 @@ export default function Projects() {
         </ul>
       </details>
       <br></br>
-      <details className="collapsible">
-        <summary>Inertial-based Gesture Classifier for Handwashing Techniques (November 2020 - December 2020)</summary>
-        <p>ToDo</p>
-      </details>
-      <br></br>
+      
       <details className="collapsible">
         <summary>REST API for Global Economic Indicators (March 2020 - April 2020)</summary>
         <p>
