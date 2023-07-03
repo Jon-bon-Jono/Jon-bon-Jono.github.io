@@ -20,7 +20,6 @@ export default function Skills() {
       <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/matplotlib_logo.PNG" alt="MatplotLib"></img>
       <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/sklearn_logo.png" alt="Sklearn"></img>
       <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/pytorch_icon.png" alt="PyTorch"></img>
-      <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/keras_logo.png" alt="Keras"></img>
       <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/processing_icon.png" alt="Processing"></img>
       <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/unity_icon.png" alt="Unity"></img>
       <h4>Software:</h4>
@@ -37,7 +36,7 @@ export default function Skills() {
         <li>Modelling with differential equations</li>
         <li>Regression analysis</li>
         <li>Machine learning</li>
-        <li>Neural networks</li>
+        <li>Deep learning</li>
         <li>Re-sampling methods for imbalanced data</li>
       </ul>
     </section>
