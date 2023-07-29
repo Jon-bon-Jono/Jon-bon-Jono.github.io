@@ -9,7 +9,7 @@ export default function About() {
       <h4> Experience</h4>
       <p>Software Engineering Intern at IkkiWorks ---- (Febuary 2022 - June 2022)</p>
       <p>Software Engineering Consultant at IkkiWorks ---- (September 2022 - November 2022)</p>
-      <p>Science Vacation Research Scholarship at UNSW ---- (November 2022 - January 2023)</p>
+      <p>Science Vacation Research Scholarship at UNSW ---- (November 2022 - Present)</p>
       <p>Reseach Assistant at UNSW ---- (May 2023 - Present)</p>
       <h4> Education</h4>
       <p>UNSW Bachelor of Engineering (Software) (Honours) & Science (Statistics) ---- (Science expected December 2023)</p>
