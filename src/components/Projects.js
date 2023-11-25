@@ -4,9 +4,14 @@ import React from "react";
 export default function Projects() {
   return (
     <section id="Projects" className="text-gray-400 bg-gray-900 body-font">
-      <h3 className="headings">Current Projects</h3>
+      <h3 className="headings">Projects</h3>
+      <details className="collapsible">
+          <summary>Resampling techniques to address imbalanced time series data for regression problems (November 2022 -)</summary>
+          <p>ToDo</p>
+        </details>
+        <br></br>
         <details className="collapsible">
-          <summary>Wearable Inertial-based Motion Tracking Application for Capturing Exercise Repetitions (January 2022 -)</summary>
+          <summary>Wearable Inertial-based Motion Tracking Application for Capturing Exercise Repetitions (January 2022 - December 2022)</summary>
           <span>
             <p>I began working on a novel motion tracking application during my software engineering internship at IkkiWorks. The application is to be integrated into the ikkiMoov system, their latest product in development. The application serves to generate accurate and drift free estimates of a single MEMS IMU's POSE (position and orientation) and send this to a smartphone-based gesture recognition system in real time.</p>
             <strong>Position estimates fall within our error budget of less than 10cm accumulated error over 3-5s. </strong>
@@ -15,11 +20,6 @@ export default function Projects() {
           </span>
         </details>
         <br></br>
-        <details className="collapsible">
-          <summary>Resampling techniques to address imbalanced time series data for regression problems (November 2022 -)</summary>
-          <p>ToDo</p>
-        </details>
-      <h3 className="headings">Past Projects</h3>
       <details className="collapsible">
           <summary>Optimizing Inertial-based Sensor Fusion for Accurate Orientation Tracking (January 2021 - December 2021)</summary>
           <p>This was essentially my Software Engineering thesis. I completed this project in collaboration with IkkiWorks. They presented me with a problem where the orientation information generated from an IMU was inaccurate and slow to respond.</p>

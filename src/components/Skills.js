@@ -20,24 +20,27 @@ export default function Skills() {
       <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/matplotlib_logo.PNG" alt="MatplotLib"></img>
       <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/sklearn_logo.png" alt="Sklearn"></img>
       <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/pytorch_icon.png" alt="PyTorch"></img>
+      <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/keras_logo.png" alt="Keras"></img>
       <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/processing_icon.png" alt="Processing"></img>
-      <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/unity_icon.png" alt="Unity"></img>
       <h4>Software:</h4>
       <img width="120" height="100" src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/jupyter_logo.PNG" alt="Jupyter"></img>
       <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/vsc_icon.png" alt="VS"></img>
+      <h4>Hardware:</h4>
       <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/arduino.PNG" alt="Arduino"></img>
+      <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/ti.png" alt="Texas Instruments"></img>
+      <img src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/nordic.png" alt="Nordic"></img>
 
       <h4>Knowledge/Applied Skills:</h4>
       <ul>
         <li>Data structures and algorithms</li>
         <li>Embedded C/C++</li>
+        <li>Machine learning</li>
+        <li>Deep learning</li>
+        <li>Forecasting with deep learning</li>
+        <li>Re-sampling methods for imbalanced data</li>
         <li>Quaternion based spatial rotations</li>
         <li>Dead-reckoning and inertial motion sensing</li>
         <li>Modelling with differential equations</li>
-        <li>Regression analysis</li>
-        <li>Machine learning</li>
-        <li>Deep learning</li>
-        <li>Re-sampling methods for imbalanced data</li>
       </ul>
     </section>
   );

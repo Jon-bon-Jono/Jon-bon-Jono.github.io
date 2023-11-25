@@ -7,8 +7,7 @@ export default function About() {
       <p> I'm currently working as a Research Assistant at UNSW while studying part-time to complete a Bachelors in Engineering (Software) (Honours) & Science (Statistics). I have finished Engineering and I am expected to complete Science by December 2023.</p>
 
       <h4> Experience</h4>
-      <p>Software Engineering Intern at IkkiWorks ---- (Febuary 2022 - June 2022)</p>
-      <p>Software Engineering Consultant at IkkiWorks ---- (September 2022 - November 2022)</p>
+      <p>Software Engineering Intern at IkkiWorks ---- (Febuary 2022 - November 2022)</p>
       <p>Science Vacation Research Scholarship at UNSW ---- (November 2022 - Present)</p>
       <p>Reseach Assistant at UNSW ---- (May 2023 - Present)</p>
       <h4> Education</h4>
