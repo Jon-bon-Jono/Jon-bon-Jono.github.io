@@ -11,7 +11,7 @@ import "../styles/style.css"
 export default function Home() {
   return (
     <main id="Home" className="main">
-      <img className="mepic" src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/me.jpg" alt="Me" width="288" height="300"></img>
+      <img className="mepic" src="https://raw.githubusercontent.com/Jon-bon-Jono/Jon-bon-Jono.github.io/main/src/images/me.jpg" alt="Me" width="288" height="321"></img>
       <h1 className="name"><span>Jonathan Williams</span></h1>
       <Navbar />
       <About />
